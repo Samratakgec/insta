@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482808293457",
+    "project_id": "instaudemy-bada7",
+    "storage_bucket": "instaudemy-bada7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482808293457:android:ebd4d636f8413c8673b070",
+        "android_client_info": {
+          "package_name": "com.example.instaudemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuf7UaA1wdpt1y49uwBhl8-ebzhc3vl0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
